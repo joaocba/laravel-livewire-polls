@@ -5,7 +5,7 @@ Simple poll management application built using Laravel 10 and TailwindCSS featur
 
 ## Features 🚀
 
-- ✔️ Livewire components for Polls
+- ✔️ Livewire dynamic frontend with components (real-time server response).
 - ✔️ Add or delete polls.
 - ✔️ Add multiple poll options.
 - ✔️ Vote system.
