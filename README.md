@@ -12,7 +12,7 @@ Simple poll management application built using Laravel 10 and TailwindCSS featur
 
 ## Screenshots 🖼️
 
-![alt text](?raw=true)
+![alt text](https://github.com/joaocba/laravel-livewire-polls/blob/main/screenshots/main-screen.JPG?raw=true)
 
 ## Usage 🛠️
 
