@@ -1,4 +1,4 @@
-# Book Reviews - Laravel App
+# Livewire Polls - Laravel App
 
 
 Simple poll management application built using Laravel 10 and TailwindCSS featuring Livewire for dynamic frontend response. It allows to create new polls, add indexed options, vote for each option and delete polls.
